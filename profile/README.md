@@ -3,7 +3,6 @@
   <img src="https://dummyimage.com/1200x240/0f172a/ffffff&text=Recolu" alt="Recolu – Réseau de capteurs sans batterie">
 </p>
 
-<h1 align="center">Recolu</h1>
 <p align="center">
   Réseau de capteurs <b>sans fil</b> et <b>sans batterie</b> basé sur <b>OpenThread</b><br/>
   <i>En collaboration avec Schneider Electric</i>
