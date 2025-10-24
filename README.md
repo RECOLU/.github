@@ -1,3 +1,5 @@
+.github
+
 Bienvenue sur la page Recolu! 
 
 Projet de réseau de capteurs sans fil et sans batterie.
